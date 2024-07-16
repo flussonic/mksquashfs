@@ -44,6 +44,7 @@
 #include <setjmp.h>
 #include <sys/types.h>
 #include <sys/mman.h>
+#include <sys/sysmacros.h>
 #include <pthread.h>
 #include <regex.h>
 #include <fnmatch.h>

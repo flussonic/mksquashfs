@@ -35,6 +35,7 @@
 #include <sys/types.h>
 #include <sys/time.h>
 #include <sys/resource.h>
+#include <sys/sysmacros.h>
 #include <limits.h>
 #include <ctype.h>
 
